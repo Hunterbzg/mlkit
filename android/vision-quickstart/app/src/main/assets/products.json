@@ -1,0 +1,1141 @@
+[
+  {
+    "codigo": "TM4037",
+    "descripcion": "Asrock B450M-HDV R4.0",
+    "precioFinal": 34000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "TM1114",
+    "descripcion": "Asus Prime A320M-K",
+    "precioFinal": 35750,
+    "cantidad": 1
+  },
+  {
+    "codigo": "TM2621",
+    "descripcion": "MSI B450M-A PRO MAX",
+    "precioFinal": 37500
+  },
+  {
+    "codigo": "TM4099",
+    "descripcion": "Asrock H610M",
+    "precioFinal": "0",
+    "cantidad": 1
+  },
+  {
+    "codigo": "TM0052",
+    "descripcion": "Tarjeta Madre Gigabyte H510M H V2",
+    "precioFinal": 49900
+  },
+  {
+    "codigo": "TM2067",
+    "descripcion": "MSI Pro H510M-B",
+    "precioFinal": 45000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "TM2617",
+    "descripcion": "Tarjeta Madre MSI B550M-P Pro GEN3",
+    "precioFinal": 67700
+  },
+  {
+    "codigo": "TM1652",
+    "descripcion": "Asus Prime A620M-K",
+    "precioFinal": 75000
+  },
+  {
+    "codigo": "CPU1107",
+    "descripcion": "Procesador Intel Core i3 10105F",
+    "precioFinal": 48500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CPU1223",
+    "descripcion": "INTEL CORE I5 10400F",
+    "precioFinal": 72600,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CPU1340",
+    "descripcion": "INTEL CORE I7 12700",
+    "precioFinal": 228000
+  },
+  {
+    "codigo": "CPU0220",
+    "descripcion": "AMD RYZEN 5 4500",
+    "precioFinal": 51990,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CPU0104",
+    "descripcion": "AMD RYZEN 3 3200G",
+    "precioFinal": 52000
+  },
+  {
+    "codigo": "CPU0222",
+    "descripcion": "AMD RYZEN 5 4600G",
+    "precioFinal": 62000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CPU0218",
+    "descripcion": "AMD RYZEN 5 5600G",
+    "precioFinal": 86250
+  },
+  {
+    "codigo": "CPU0309",
+    "descripcion": "AMD RYZEN 7 5700G",
+    "precioFinal": 126000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "ENF2807",
+    "descripcion": "Antec A30 PRO",
+    "precioFinal": 7500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "ENF0152",
+    "descripcion": "DarkFlash Shadow Pro PWM - RGB",
+    "precioFinal": 13600,
+    "cantidad": 1
+  },
+  {
+    "codigo": "ENF2855",
+    "descripcion": "DarkFlash Twister DX-120 Ver2.6 - Negro",
+    "precioFinal": 30450
+  },
+  {
+    "codigo": "ENF0185",
+    "descripcion": "Enfriamiento Liquido Redragon CCW-3011 - Negro",
+    "precioFinal": 33600
+  },
+  {
+    "codigo": "ENF0214",
+    "descripcion": "Enfriamiento Liquido BeQuiet! Silent Loop 2 240mm - BW010",
+    "precioFinal": 81000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "VEN0765",
+    "descripcion": "Ventilador DarkFlash - Infinity 8- Negro",
+    "precioFinal": 4200,
+    "cantidad": 1
+  },
+  {
+    "codigo": "VEN0759",
+    "descripcion": "DarkFlash DR12 ARGB Negro",
+    "precioFinal": 4200,
+    "cantidad": 1
+  },
+  {
+    "codigo": "VEN0603",
+    "descripcion": "Phanteks Halo RGB 120mm",
+    "precioFinal": 7350,
+    "cantidad": 1
+  },
+  {
+    "codigo": "VEN0754",
+    "descripcion": "darkFlash C6m Negro - 140mm",
+    "precioFinal": 5250,
+    "cantidad": 1
+  },
+  {
+    "codigo": "VEN0755",
+    "descripcion": "darkFlash C6M Blanco - 140mm",
+    "precioFinal": 5250,
+    "cantidad": 1
+  },
+  {
+    "codigo": "VEN0760",
+    "descripcion": "DarkFlash DR12 ARGB pack de 3",
+    "precioFinal": 14700
+  },
+  {
+    "codigo": "UPS0321",
+    "descripcion": "UPS Forza 750VA NT-751",
+    "precioFinal": 27299.99
+  },
+  {
+    "codigo": "UPS0315",
+    "descripcion": "UPS Forza 1000VA NT-1011",
+    "precioFinal": 34650.00
+  },
+  {
+    "codigo": "USB0108",
+    "descripcion": "Memoria USB ADATA UV128 Flashdrive 128GB USB 3.2 Azul",
+    "precioFinal": 4300,
+    "cantidad": 1
+  },
+  {
+    "codigo": "USB0060",
+    "descripcion": "Memoria USB Kingston DataTraveler Exodia 64GB 3.2 - Negro Celeste - DTX/64",
+    "precioFinal": 3149.99,
+    "cantidad": 6
+  },
+  {
+    "codigo": "USB8003",
+    "descripcion": "MicroSD IMOU 256GB ST2-256-S1",
+    "precioFinal": 10400,
+    "cantidad": 1
+  },
+  {
+    "codigo": "SSD0006",
+    "descripcion": "Kingston A400 240 GB",
+    "precioFinal": 13500,
+    "cantidad": 8
+  },
+  {
+    "codigo": "SSD1908",
+    "descripcion": "Mushkin Element 512GB 2.5",
+    "precioFinal": 16275
+  },
+  {
+    "codigo": "SSD1209",
+    "descripcion": "Patriot p300 512 gb",
+    "precioFinal": 21700,
+    "cantidad": 2
+  },
+  {
+    "codigo": "SSD1076",
+    "descripcion": "SSD TeamGroup MP33 M.2 512GB - TM8FP6512G0C101",
+    "precioFinal": 24149.9984,
+    "cantidad": 3
+  },
+  {
+    "codigo": "SSD1159",
+    "descripcion": "SSD Teamgroup T-Force Vulcan Z 480GB 2.5",
+    "precioFinal": 16800.0038,
+    "cantidad": 2
+  },
+  {
+    "codigo": "SSD1210",
+    "descripcion": "SSD M.2 Patriot P300 PCIe 1TB",
+    "precioFinal": 38000,
+    "cantidad": 2
+  },
+  {
+    "codigo": "SSD4304",
+    "descripcion": "SSD MSI M.2 NVME SPATIUM M371 1 TB",
+    "precioFinal": 33600
+  },
+  {
+    "codigo": "SSD1237",
+    "descripcion": "SSD Portable Patriot Transporter - 512 GB - 9SE00191-PTP512GPEC",
+    "precioFinal": 31000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MT0155",
+    "descripcion": "ACER V226HQL - 22\" - 100HZ",
+    "precioFinal": 49500
+  },
+  {
+    "codigo": "MT2408",
+    "descripcion": "ASROCK CHALLENGER CL25FF - 25\" - 100HZ - IPS",
+    "precioFinal": 60000
+  },
+  {
+    "codigo": "MT0292",
+    "descripcion": "Monitor Asus TUF VG24VQE - 90LM0575-B011B0"
+  },
+  {
+    "codigo": "MT0784",
+    "descripcion": "Monitor MSI G27C3F - Curvo - 180Hz - 1500R - 1ms - 1920x1080 - Negro",
+    "precioFinal": 112000
+  },
+  {
+    "codigo": "MT0783",
+    "descripcion": "Monitor MSI G244F - 1ms -180Hz - 1920x1080 - Negro",
+    "precioFinal": 96700
+  },
+  {
+    "codigo": "MT0416",
+    "descripcion": "Monitor Samsung F24T350FHN - 24\" - IPS - 75 Hz - LF24T350FHNXZA",
+    "precioFinal": 74900,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MT0348",
+    "descripcion": "Monitor LG 22MP410-B BB.AWPVJVN - 75HZ - Amd Freesync",
+    "precioFinal": 58990,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CAS2305",
+    "descripcion": "Case Extreme series Ceres Gaming ATX - 1 x Fan RGB",
+    "precioFinal": 16990,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CAS1025",
+    "descripcion": "Case Aerocool Falcon - Negro - Falcon-G-BK-v2",
+    "precioFinal": 23795,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CAS1029",
+    "descripcion": "Case Aerocool Delta RGB - Negro - Delta-G-BK-v2",
+    "precioFinal": 19500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CAS1911",
+    "descripcion": "Case Kolink Observatory Lite Mesh ARGB - Blanco - PGW-CH-KOL-102",
+    "precioFinal": 35699.999599999996
+  },
+  {
+    "codigo": "CAS2705",
+    "descripcion": "CHECKPOINT GAMING CASE CP-800RGB 6F NEGRO",
+    "precioFinal": 32500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CAS2301",
+    "descripcion": "EXTREME SERIES HYPERION- NEGRO",
+    "precioFinal": 33890
+  },
+  {
+    "codigo": "CAS2302",
+    "descripcion": "EXTREME SERIES HYPERION- BLANCO",
+    "precioFinal": 34665
+  },
+  {
+    "codigo": "CAS1519",
+    "descripcion": "LIAN LI LANCOOL II MESH RGB - NEGRO",
+    "precioFinal": 58000
+  },
+  {
+    "codigo": "RAM1114",
+    "descripcion": "Memoria RAM Patriot Viper Elite 2 8 GB DDR4 3200 - PE000830-PVE248G320C8",
+    "precioFinal": 13650.0045
+  },
+  {
+    "codigo": "RAM1061",
+    "descripcion": "ADATA XPG SPECTRIX D35G RGB 8 GB DDR4 3200",
+    "precioFinal": 15550,
+    "cantidad": 2
+  },
+  {
+    "codigo": "RAM0218",
+    "descripcion": "G.SKILL TRIDENT Z RGB 8 GB DDR4 3200 - RYZEN",
+    "precioFinal": 19975,
+    "cantidad": 2
+  },
+  {
+    "codigo": "RAM1112",
+    "descripcion": "PATRIOT VIPER ELITE II 16 GB DDR4 3200",
+    "precioFinal": 23100.00000000004,
+    "cantidad": 2
+  },
+  {
+    "codigo": "RAM0242",
+    "descripcion": "G.SKILL TRIDENT Z RGB 16 GB DDR4 3600",
+    "precioFinal": 30000,
+    "cantidad": 2
+  },
+  {
+    "codigo": "RAM1205",
+    "descripcion": "Memoria RAM Laptop TeamGroup Elite 8 GB DDR4 3200 SO-DIMM",
+    "precioFinal": 12599.997200000002,
+    "cantidad": 2
+  },
+  {
+    "codigo": "RAM0917",
+    "descripcion": "Memoria Ram Laptop AGI - 16 GB DDR4 - 3200Mhz - SO-DIMM - AGI320016SD138",
+    "precioFinal": 19950.003099999998,
+    "cantidad": 2
+  },
+  {
+    "codigo": "RAM0711",
+    "descripcion": "Memoria RAM Laptop G.Skill Ripjaws 16 GB DDR4 3200 SO-DIMM - F4-3200C22S-16GRS",
+    "precioFinal": 21000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "RAM0534",
+    "descripcion": "TEAMGROUP T-FORCE DELTA RGB 8 GB DDR4 3200 - Black",
+    "precioFinal": 15160,
+    "cantidad": 1
+  },
+  {
+    "codigo": "FP0405",
+    "descripcion": "Fuente de Poder Aerocool Cylon 700W RGB 80 Plus Bronze",
+    "precioFinal": 26250.0017
+  },
+  {
+    "codigo": "FP0060",
+    "descripcion": "Fuente de Poder Azza 650W 80 Plus Bronze - RGB",
+    "precioFinal": 24990
+  },
+  {
+    "codigo": "FP0173",
+    "descripcion": "Fuente de Poder Seasonic G12 GC-850 Watts 80 Plus Gold - Modular - ATX 3.0/PCIE",
+    "precioFinal": 57900
+  },
+  {
+    "codigo": "CAB0810",
+    "descripcion": "Cable Unno Tekno HDMI - 3M - CB4110BK",
+    "precioFinal": 2624.9999999999964
+  },
+  {
+    "codigo": "CAB0809",
+    "descripcion": "Cable Unno Tekno HDMI - 1.8M - CB4106BK",
+    "precioFinal": 2100.000000000002
+  },
+  {
+    "codigo": "CAB0095",
+    "descripcion": "Cable Unno Tekno Tipo C a Tipo C - Rojo - CB4073RD",
+    "precioFinal": 2624.9999999999964,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CAB0088",
+    "descripcion": "Cable Unno Tekno Lightning - Blanco - CB4053WT",
+    "precioFinal": 3150.0000004305,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CAB0640",
+    "descripcion": "Adaptador AON Display Port a Hembra HDMI - 4k - AO-AD1014",
+    "precioFinal": 3150.0000000000027,
+    "cantidad": 1
+  },
+  {
+    "codigo": "USB0088",
+    "descripcion": "HUB UNNO TEKNO 4 puertos USB 3.0 - HB1011BK",
+    "precioFinal": 5250.000000000004
+  },
+  {
+    "codigo": "CV0005",
+    "descripcion": "Kolink Inspire L1 3-Pin 5V ARGB Controller",
+    "precioFinal": 5774.9999998005005
+  },
+  {
+    "codigo": "USB0094",
+    "descripcion": "HUB UNNO TEKNO USB-C 7 en 1 / HDMI + x1 USB-C 3.0 + x2 USB-A + SD/SD + PD - HB1107SV",
+    "precioFinal": 13500
+  },
+  {
+    "codigo": "CAB0177",
+    "descripcion": "Cable Red UNNO TEKNO Ethernet Patch Cat6 6FT - Gris - CB4306GY",
+    "precioFinal": 1049.9999999999998,
+    "cantidad": 2
+  },
+  {
+    "codigo": "CAB0090",
+    "descripcion": "Cable Unno Tekno - USB para impresora - 1.8 m - CB4006BK",
+    "precioFinal": 1049.9999999999998
+  },
+  {
+    "codigo": "CAB0071",
+    "descripcion": "Cable Unno Tekno Cable de Audio 3.5mm - 1.5M - CB4052BK",
+    "precioFinal": 1049.996,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CAB0616",
+    "descripcion": "Cable AON USB-C 3.5m Negro - AO-CB-5000",
+    "precioFinal": 2099.999999496
+  },
+  {
+    "codigo": "CAB0412",
+    "descripcion": "Cable Ivanky Display Port 1.4 3m Black 8K 60Hz - VBC33",
+    "precioFinal": 5000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "ENC0003",
+    "descripcion": "Encapsulador ADATA EX500 HDD / SSD 2.5 USB 3.1",
+    "precioFinal": 8400.0019
+  },
+  {
+    "codigo": "KIT0109",
+    "descripcion": "Xiaomi - KIT Desatornilladores de Precision",
+    "precioFinal": 10500
+  },
+  {
+    "codigo": "SPR0001",
+    "descripcion": "SABO DUSTER 590ML- Aire comprimido",
+    "precioFinal": 6050,
+    "cantidad": 1
+  },
+  {
+    "codigo": "SPR0004",
+    "descripcion": "SABO CONTACT CLEANER 590ml",
+    "precioFinal": 6000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "VEN0661",
+    "descripcion": "AZZA - Controlador Remoto ARGB",
+    "precioFinal": 3450,
+    "cantidad": 1
+  },
+  {
+    "codigo": "VEN1601",
+    "descripcion": "HUB Aigo APC1",
+    "precioFinal": 6300.0000000000055,
+    "cantidad": 1
+  },
+  {
+    "codigo": "PAS0025",
+    "descripcion": "pasta termica Sabo 1.7gr",
+    "precioFinal": 4200
+  },
+  {
+    "codigo": "TC0019",
+    "descripcion": "TECLADO UNNO TEKNO KLASS USB ESPAÑOL",
+    "precioFinal": 4225
+  },
+  {
+    "codigo": "TYM0911",
+    "descripcion": "Teclado y Mouse Argom Inalambrico - ARG-KB-7436",
+    "precioFinal": 8400.000000000007
+  },
+  {
+    "codigo": "TC1014",
+    "descripcion": "Teclado Inalámbrico Slimstar 7230 Genius - Negro - 31310021401",
+    "precioFinal": 6300.0000000000055
+  },
+  {
+    "codigo": "TC0758",
+    "descripcion": "Teclado Logitech Bluetooth multidispositivo K380 920-011150",
+    "precioFinal": 18400,
+    "cantidad": 1
+  },
+  {
+    "codigo": "TC0231",
+    "descripcion": "RAZER CYNOSA LITE - RGB I-NGLES",
+    "precioFinal": 15250
+  },
+  {
+    "codigo": "TC1933",
+    "descripcion": "Teclado Razer BlackWidow V4 X - Yellow Switch - Español - RZ03-04702800-R311",
+    "precioFinal": 66900,
+    "cantidad": 1
+  },
+  {
+    "codigo": "TC0421",
+    "descripcion": "Teclado HyperX Alloy ELITE 2 RGB - Switch RED HKBE2X-1X-LA/G Español",
+    "precioFinal": 76000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO1138",
+    "descripcion": "GENIUS DX-101 USB - NEGRO",
+    "precioFinal": 2000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO1109",
+    "descripcion": "GENIUS DX-120 USB-AZUL",
+    "precioFinal": 2100
+  },
+  {
+    "codigo": "MO1114",
+    "descripcion": "GENIUS DX-150 USB-AZUL",
+    "precioFinal": 2624.9999999999964,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO0661",
+    "descripcion": "Mouse Argom MS31 Azul WIreless - ARG-MS-0031BL",
+    "precioFinal": 4200.000000000004
+  },
+  {
+    "codigo": "MO1119",
+    "descripcion": "GENIUS NX-7000SE - INALAMBRICO - NEGRO",
+    "precioFinal": 4200.000000000004,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO3004",
+    "descripcion": "MOUSE UNNO TEKNO CURVE WIRELESS - AZUL -...",
+    "precioFinal": 4200.000000000004,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO1120",
+    "descripcion": "Mouse Genius NX-7007 - Inalambrico - Rojo - 31030026404",
+    "precioFinal": 4200.000000000004,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO1127",
+    "descripcion": "Mouse Genius Inalámbrico Wireless Nx-8000S - Negro - 31030025400",
+    "precioFinal": 4724.999999999997
+  },
+  {
+    "codigo": "MO0033",
+    "descripcion": "Mouse Redragon Storm M808-RGB",
+    "precioFinal": 10395.0000001155
+  },
+  {
+    "codigo": "MO0289",
+    "descripcion": "Mouse Logitech M187 Coral - 910-005362",
+    "precioFinal": 8400.000000000007,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO1136",
+    "descripcion": "GENIUS GAMING SCORPION M700",
+    "precioFinal": 6824.999999999999,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO2602",
+    "descripcion": "Mouse Redragon Reaping RGB - M987-K",
+    "precioFinal": 8294.999999433
+  },
+  {
+    "codigo": "MO0255",
+    "descripcion": "Mouse Logitech G203 - Negro - 910-005790",
+    "precioFinal": 15000
+  },
+  {
+    "codigo": "MO2120",
+    "descripcion": "Mouse Razer Cobra RZ01-04650100-R3U1",
+    "precioFinal": 22000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO0005",
+    "descripcion": "Mouse Redragon Cobra M711",
+    "precioFinal": 8400.0019
+  },
+  {
+    "codigo": "MO2129",
+    "descripcion": "Mouse Razer Viper V3 Hyperspeed Wireless - RZ01-04910100-R3M1",
+    "precioFinal": 41894.9986
+  },
+  {
+    "codigo": "MO2305",
+    "descripcion": "CHECKPOINT MX200 NARUTO AKATSUKI",
+    "precioFinal": 15000
+  },
+  {
+    "codigo": "MO2502",
+    "descripcion": "Mouse NZXT Lift Negro - MS-1WRAX-BM",
+    "precioFinal": 29000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "TYM0915",
+    "descripcion": "TECLADO Y MOUSE UNNO TEKNO KLAS ESPAÑOL",
+    "precioFinal": 6300.0000000000055
+  },
+  {
+    "codigo": "TYM0159",
+    "descripcion": "Teclado y Mouse Logitech MK235 - Español - 920-007901",
+    "precioFinal": 16000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "TYM0914",
+    "descripcion": "Teclado y Mouse Gigabyte KM6300 - GK-KM6300",
+    "precioFinal": 20999.999994960002
+  },
+  {
+    "codigo": "MP0916",
+    "descripcion": "MOUSEPAD ARGOM GALAXIA - AZUL - ARG-AC-",
+    "precioFinal": 1049.9999999999998,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MP0919",
+    "descripcion": "MOUSEPAD ARGOM GALAXIA - BLANCO...",
+    "precioFinal": 1049.9999999999998
+  },
+  {
+    "codigo": "MP0917",
+    "descripcion": "MOUSEPAD ARGOM GALAXIA - ROJO - ARG-AC",
+    "precioFinal": 1049.9999999999998,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MP1405",
+    "descripcion": "Mousepad Checkpoint MP100 - Naruto Leaf Ninja - Small 269x320x4mm - NA-MP-1009",
+    "precioFinal": 3150.0000004305
+  },
+  {
+    "codigo": "MP0906",
+    "descripcion": "Mousepad UNNO TEKNO DYNAMIA - MP6031BL",
+    "precioFinal": 2624.9999999999964,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MP0907",
+    "descripcion": "MOUSEPAD UNNO TEKNO DYNAMIA VERDE -",
+    "precioFinal": 2100.000000000002,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MP0905",
+    "descripcion": "Mousepad UNNO TEKNO Brave XL - MP6052GN",
+    "precioFinal": 4200.000000000004
+  },
+  {
+    "codigo": "MP1410",
+    "descripcion": "Mousepad Checkpoint MP200 - Naruto Akatsuki - Medium 444x350x4mm - NA-MP-1007",
+    "precioFinal": 4200.0000001785
+  },
+  {
+    "codigo": "MP0902",
+    "descripcion": "MOUSEPAD UNNO TEKNO CON GEL Y SOPORTE PARA...",
+    "precioFinal": 3150.0000000000027,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MP5001",
+    "descripcion": "Mousepad Klip Extreme Gel KMP-100B",
+    "precioFinal": 4725.0000000525
+  },
+  {
+    "codigo": "MP0118",
+    "descripcion": "Mousepad Razer Goliathus Speed Cosmic Edition M - RZ02-01910200-R3U1",
+    "precioFinal": 6500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MP0813",
+    "descripcion": "REDRAGON PLUTO P026 RGB",
+    "precioFinal": 6050
+  },
+  {
+    "codigo": "MP1202",
+    "descripcion": "T-DAGGER GEOMETRY L T-TMP301",
+    "precioFinal": 3150.0000004305
+  },
+  {
+    "codigo": "MP0019",
+    "descripcion": "Mousepad HyperX Pulsefire M - 360mmx300x3mm - HMPM1-M - 4Z7X3AA",
+    "precioFinal": 5250.000000000004
+  },
+  {
+    "codigo": "MP0914",
+    "descripcion": "WRIST REST ARGOM GEL PARA TECLADO - NEGRO...",
+    "precioFinal": 4200.000000000004
+  },
+  {
+    "codigo": "MP0807",
+    "descripcion": "Mousepad Redragon Epeius P009",
+    "precioFinal": 12074.999999475,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CTR0030",
+    "descripcion": "Control MSi Force GC30 V2 Wireless Blanco",
+    "precioFinal": 23450,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CTR0021",
+    "descripcion": "Control Redragon Saturn G807",
+    "precioFinal": 8400.0019
+  },
+  {
+    "codigo": "HE9022",
+    "descripcion": "Headset Genius 220U USB - Negro - 31710020400",
+    "precioFinal": 6824.999999999999
+  },
+  {
+    "codigo": "HE4016",
+    "descripcion": "Headset UNNO TEKNO ACE 14 - USB - HS7214BL",
+    "precioFinal": 7349.9946
+  },
+  {
+    "codigo": "HE4015",
+    "descripcion": "HEADSET UNNO TEKNO ACE 7 - 3.5 MM - HS7207BL",
+    "precioFinal": 5250.000000000004,
+    "cantidad": 1
+  },
+  {
+    "codigo": "HE2346",
+    "descripcion": "Audifonos Skull Candy -  SMOKIN Buds True Wireless - Negro - S2TAW-R740",
+    "precioFinal": 19500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "HE4001",
+    "descripcion": "HEADSET UNNO OVALA BLUETOOTH 5.0 - ROJO -...",
+    "precioFinal": 10000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "HE4003",
+    "descripcion": "HEADSET UNNO OVALA BLUETOOTH 5.0 - AZUL -...",
+    "precioFinal": 10000
+  },
+  {
+    "codigo": "HE2906",
+    "descripcion": "Headset THONET & VANDER DAUER - Azul - HK096-03655",
+    "precioFinal": 16500
+  },
+  {
+    "codigo": "HE2704",
+    "descripcion": "Headset Checkpoint HX-200 Naruto Akatsuki - 7.1 Surround - NA-HS-1004",
+    "precioFinal": 19000
+  },
+  {
+    "codigo": "HE1711",
+    "descripcion": "Headset  Primus Gaming Darth Vader Arcus110T Hdst MP Wrd  - PHS-S110DV",
+    "precioFinal": 26250,
+    "cantidad": 1
+  },
+  {
+    "codigo": "HE0390",
+    "descripcion": "THONET & VANDER DAUER - BLUETOOTH",
+    "precioFinal": 15749.99999999995
+  },
+  {
+    "codigo": "HE0068",
+    "descripcion": "Headset HyperX Cloud III - Gaming NEGRO/ROJO - 727A9AA",
+    "precioFinal": 38000
+  },
+  {
+    "codigo": "HE0105",
+    "descripcion": "RAZER BLACKSHARK V2X VERDE",
+    "precioFinal": 23500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "HE0102",
+    "descripcion": "Headset Razer BlackShark V2X - RZ04-03240100-R3U1",
+    "precioFinal": 23100.00000000004
+  },
+  {
+    "codigo": "HE0068",
+    "descripcion": "HYPERX CLOUD III NEGRO/ROJO",
+    "precioFinal": 37990
+  },
+  {
+    "codigo": "HE0027",
+    "descripcion": "Headset HyperX Cloud Flight Wireless Negro Rojo / PC,PS4,PS4 PRO - HX-HSCF-BK/AM - 4P5L4AA#ABL",
+    "precioFinal": 44850,
+    "cantidad": 1
+  },
+  {
+    "codigo": "PAR0128",
+    "descripcion": "GENIUS SP-Q160 - GRIS",
+    "precioFinal": 4200,
+    "cantidad": 1
+  },
+  {
+    "codigo": "PAR0130",
+    "descripcion": "GENIUS SP-HF180 NEGRO",
+    "precioFinal": 4724.999999999997,
+    "cantidad": 1
+  },
+  {
+    "codigo": "PAR1311",
+    "descripcion": "PARLANTE UNNO TEKNO ICON - SP9013BK",
+    "precioFinal": 7350.0000000000055
+  },
+  {
+    "codigo": "PAR1307",
+    "descripcion": "Parlante UNNO TEKNO Arista Sound Bar  - SP9354BK",
+    "precioFinal": 10395.000000000007
+  },
+  {
+    "codigo": "PAR0120",
+    "descripcion": "Parlante Argom BOOGIE BOOM Waterproof TWS BT Negro - ARG-SP-3120BK",
+    "precioFinal": 10500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "PAR0375",
+    "descripcion": "Parlante Thonet & Vander Frei Topp - Celeste - Ozean - HK09603619",
+    "precioFinal": 19950.003099999998,
+    "cantidad": 1
+  },
+  {
+    "codigo": "PAR0374",
+    "descripcion": "Parlante Thonet & Vander  Frei Topp  - Negro - HK096-03621",
+    "precioFinal": 19950.000000000004
+  },
+  {
+    "codigo": "CAM0043",
+    "descripcion": "Webcam Xtech KEEK de 720P HD con micrófono - XTW-720",
+    "precioFinal": 7500
+  },
+  {
+    "codigo": "CAM0006",
+    "descripcion": "WEBCAM LOGITECH C270 960-000694",
+    "precioFinal": 12795
+  },
+  {
+    "codigo": "CAM0038",
+    "descripcion": "Webcam Redragon OneShot GW910",
+    "precioFinal": 20894.9995
+  },
+  {
+    "codigo": "CAM0034",
+    "descripcion": "RAZER KIYO",
+    "precioFinal": 41950
+  },
+  {
+    "codigo": "CAB0607",
+    "descripcion": "Adaptador AON USB-C a RJ45 - AO-AD-1006",
+    "precioFinal": 7500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "SW0025",
+    "descripcion": "SWITCH D-LINK DE 5 PUERTOS 10/100 -...",
+    "precioFinal": 6300.0000000000055
+  },
+  {
+    "codigo": "WIFI0012",
+    "descripcion": "Adaptador WIFI PCIE TP-LINK AC600 Archer T2E",
+    "precioFinal": 10395
+  },
+  {
+    "codigo": "WIFI0613",
+    "descripcion": "SWITCH 8 PUERTOS D-LINK DES-1008C",
+    "precioFinal": 7350.0000000000055,
+    "cantidad": 1
+  },
+  {
+    "codigo": "ADP1021",
+    "descripcion": "Adaptador USB WIFI D-Link AC1200 Doble banda MU-MIMO - DWA-182",
+    "precioFinal": 15950
+  },
+  {
+    "codigo": "WIFI0506",
+    "descripcion": "Extensor de Cobertura TP LINK TL-WA855RE",
+    "precioFinal": 11300
+  },
+  {
+    "codigo": "WIFI0634",
+    "descripcion": "Extensor WiFi Xiaomi Mi WiFi Range Extender AC1200 - Negro",
+    "precioFinal": 13100
+  },
+  {
+    "codigo": "ROU0069",
+    "descripcion": "ROUTER D-LINK WIRELESS AC750 - DIR-819",
+    "precioFinal": 14700.000000000058
+  },
+  {
+    "codigo": "WIFI0629",
+    "descripcion": "Sistema Wifi Mercusys AC1200 Whole Home Mesh Wi-Fi 6 System Halo H30 - 2 Pack - 1750502541",
+    "precioFinal": 29990,
+    "cantidad": 1
+  },
+  {
+    "codigo": "ROU0074",
+    "descripcion": "Router TP Link AC1200 Archer C64 - 1750502525",
+    "precioFinal": 21200
+  },
+  {
+    "codigo": "HE0173",
+    "descripcion": "Microfono Razer Seiren Mini Mercury - RZ19-03450300-R3M1",
+    "precioFinal": 26750
+  },
+  {
+    "codigo": "HE0176",
+    "descripcion": "Microfono Razer Seiren Mini Negro - RZ19-03450100-R3U1",
+    "precioFinal": 26750
+  },
+  {
+    "codigo": "TV0205",
+    "descripcion": "Tarjeta de Video MSI Nvidia GeForce 210 1 GB",
+    "precioFinal": 18500,
+    "cantidad": 2
+  },
+  {
+    "codigo": "TV1558",
+    "descripcion": "Tarjeta de Video MSI Nvidia Geforce GTX 1650 Ventus XS OCV3 Edition 4GB - 912-V8",
+    "precioFinal": 92500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "TV0658",
+    "descripcion": "Tarjeta de Video Sapphire AMD Pulse Radeon RX 6500XT 4GB Gaming OC - S88-1E457-100SA",
+    "precioFinal": 101500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "TV1548",
+    "descripcion": "Tarjeta de VIdeo MSI Nvidia Geforce RTX 4060 Ventus 2X Black 8GB OC - 912-V516-012",
+    "precioFinal": 212950
+  },
+  {
+    "codigo": "MO2304",
+    "descripcion": "Mouse Checkpoint MX-200 - Naruto Leaf Ninja -10000 DPI - NA-MS-1001",
+    "precioFinal": 15225,
+    "cantidad": 2
+  },
+  {
+    "codigo": "MO2305",
+    "descripcion": "Mouse Checkpoint MX-200 - Naruto AKATSUKI - 10000 DPI - NA-MS-1002",
+    "precioFinal": 15225,
+    "cantidad": 2
+  },
+  {
+    "codigo": "MP1415",
+    "descripcion": "Mousepad Checkpoint MP300 - Naruto Sealing Jutsu - Large 795x345x4mm - NA-MP-1001"
+  },
+  {
+    "codigo": "MP1411",
+    "descripcion": "Mousepad Checkpoint MP200 A- Uchiha Brothers - Medium 444x350x4mm - NA-MP-1008",
+    "precioFinal": 5500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MP0813",
+    "descripcion": "Mousepad Redragon RGB Pluto P026",
+    "precioFinal": 6750,
+    "cantidad": 1
+  },
+  {
+    "codigo": "WIFI0617",
+    "descripcion": "Toma inteligente UNNO SMART - PW5301WT",
+    "precioFinal": 5500,
+    "cantidad": 2
+  },
+  {
+    "codigo": "WIFI0012",
+    "descripcion": "Adaptador WIFI PCIE TP-LINK AC600 Archer T2E",
+    "precioFinal": 10600
+  },
+  {
+    "codigo": "TC0830",
+    "descripcion": "Teclado Redragon Shiva - Negro -K512RGB",
+    "precioFinal": 12750
+  },
+  {
+    "codigo": "TC0838",
+    "descripcion": "Teclado Redragon Shiva - Blanco - K512W-RGB",
+    "precioFinal": 12750
+  },
+  {
+    "codigo": "MT0160",
+    "descripcion": "Monitor Acer EI242QR - 1920x1080 - 165Hz - 1ms - Curved - UM.UE2AA.S01",
+    "precioFinal": 82900
+  },
+  {
+    "codigo": "MT2408",
+    "descripcion": "Monitor ASRock CL25FF Challenger 25\" FHD - 100Hz - 1ms - AMD FreeSync - 90LXA080-A0U0A0N",
+    "precioFinal": 63500
+  },
+  {
+    "codigo": "RAM0919",
+    "descripcion": "AGI - 2400 DDR4 - 8 GB - AGI240008UD138",
+    "precioFinal": 10800,
+    "cantidad": 4
+  },
+  {
+    "codigo": "TV1543",
+    "descripcion": "Tarjeta de Video MSi Nvidia geforce RTX 4060 Ti Ventus 3X 8GB OC - 912-V515-023",
+    "precioFinal": 284000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO0255",
+    "descripcion": "Mouse Logitech G203 - Negro - 910-005790"
+  },
+  {
+    "codigo": "MO0046",
+    "descripcion": "Mouse Redragon Perdition Pro Wireless - M901P-KS"
+  },
+  {
+    "codigo": "ENC0003",
+    "descripcion": "Encapsulador ADATA EX500 HDD / SSD 2.5 USB 3.1",
+    "precioFinal": 8900,
+    "cantidad": 3
+  },
+  {
+    "codigo": "ENC0014",
+    "descripcion": "Encapsulador Viper Enclosure RGB para M.2 - 9AS00140-PV860UPRGM",
+    "precioFinal": 19950,
+    "cantidad": 1
+  },
+  {
+    "codigo": "UPS0401",
+    "descripcion": "UPS Central Plus 1000 LED - 1000VA/500W",
+    "precioFinal": 27950
+  },
+  {
+    "codigo": "TM4273",
+    "descripcion": "Tarjeta Madre Asrock A620M-HDV/M.2+ - 90-MXBLK0-A0UAYZ",
+    "precioFinal": 68000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "SSD1082",
+    "descripcion": "SSD Teamgroup CX2 512GB 2.5\"",
+    "precioFinal": 20475,
+    "cantidad": 5
+  },
+  {
+    "codigo": "MO0264",
+    "descripcion": "Mouse Logitech G203 LightSync RGB - Lila - 910-005851",
+    "precioFinal": 13995,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MO0256",
+    "descripcion": "Mouse Logitech G203 - Blanco - 910-005791",
+    "precioFinal": 13995
+  },
+  {
+    "codigo": "MT1505",
+    "descripcion": "Monitor Xiaomi Mi 23.8 1C - RMMNT238NF",
+    "precioFinal": 59900,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MT0381",
+    "descripcion": "Monitor LG 24MK430H-B 24\"",
+    "precioFinal": 62990,
+    "cantidad": 1
+  },
+  {
+    "codigo": "MT5201",
+    "descripcion": "Monitor Dahua 24¨ - DHI-LM24-B201S - IPS - 1920x1080 - 100Hz",
+    "precioFinal": 53300,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CAS0331",
+    "descripcion": "Case Bitfenix Nova Mesh SE TG - 4 Fan ARGB - Blanco",
+    "precioFinal": 32500,
+    "cantidad": 1
+  },
+  {
+    "codigo": "CAB0078",
+    "descripcion": "Cable Unno Tekno HDMI 2.0 4K - 1.8M- CB4226BL",
+    "precioFinal": 3275,
+    "cantidad": 2
+  },
+  {
+    "codigo": "CAB0180",
+    "descripcion": "Cable de Alimentacion Unno Tekno - 1.5m - CB4001BK",
+    "precioFinal": 1050,
+    "cantidad": 1
+  },
+  {
+    "codigo": "PAR0718",
+    "descripcion": "Amazon Echo Dot 5th generation - Azul",
+    "precioFinal": 29000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "PAR0719",
+    "descripcion": "Amazon Echo Dot (5th Gen) - Charcoal - B09B8V1LZ3",
+    "precioFinal": 28000,
+    "cantidad": 1
+  },
+  {
+    "codigo": "SH0801",
+    "descripcion": "Timbre Inteligente con Camara UNNO TEKNO - CM1481WT",
+    "precioFinal": 40900,
+    "cantidad": 1
+  },
+  {
+    "codigo": "SH0051",
+    "descripcion": "Bombillo IMOU Wifi Multicolor LED9W 60W -IOT-CL1B-5-E26-US",
+    "precioFinal": 4350
+  }
+]

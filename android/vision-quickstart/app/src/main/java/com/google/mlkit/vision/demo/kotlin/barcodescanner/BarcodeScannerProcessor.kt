@@ -45,6 +45,8 @@ class BarcodeScannerProcessor(context: Context, zoomCallback: ZoomCallback?) :
       if (zoomCallback != null) {
         val options =
           BarcodeScannerOptions.Builder()
+            //.setBarcodeFormats(Barcode.TYPE_DRIVER_LICENSE)
+            .setBarcodeFormats(Barcode.TYPE_DRIVER_LICENSE)
             .setZoomSuggestionOptions(ZoomSuggestionOptions.Builder(zoomCallback).build())
             .build()
         BarcodeScanning.getClient(options)
@@ -101,7 +103,11 @@ class BarcodeScannerProcessor(context: Context, zoomCallback: ZoomCallback?) :
         }
         Log.v(MANUAL_TESTING_LOG, "barcode display value: " + barcode.displayValue)
         Log.v(MANUAL_TESTING_LOG, "barcode raw value: " + barcode.rawValue)
-        val dl = barcode.driverLicense
+        val person = barcode.rawBytes?.let { CedulaCR().parse(it) }
+        if (person != null) {
+          Log.v(MANUAL_TESTING_LOG, "driver license city: ${person.cedula}")
+        }
+        /*val dl = barcode.driverLicense
         if (dl != null) {
           Log.v(MANUAL_TESTING_LOG, "driver license city: " + dl.addressCity)
           Log.v(MANUAL_TESTING_LOG, "driver license state: " + dl.addressState)
@@ -117,7 +123,7 @@ class BarcodeScannerProcessor(context: Context, zoomCallback: ZoomCallback?) :
           Log.v(MANUAL_TESTING_LOG, "driver license issue date: " + dl.issueDate)
           Log.v(MANUAL_TESTING_LOG, "driver license issue country: " + dl.issuingCountry)
           Log.v(MANUAL_TESTING_LOG, "driver license number: " + dl.licenseNumber)
-        }
+        }*/
       }
     }
   }

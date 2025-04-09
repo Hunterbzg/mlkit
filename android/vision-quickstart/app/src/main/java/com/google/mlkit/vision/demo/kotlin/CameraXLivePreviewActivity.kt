@@ -71,7 +71,6 @@ import com.google.mlkit.vision.text.latin.TextRecognizerOptions
 
 /** Live preview demo app for ML Kit APIs using CameraX. */
 @KeepName
-@RequiresApi(VERSION_CODES.LOLLIPOP)
 class CameraXLivePreviewActivity :
   AppCompatActivity(), OnItemSelectedListener, CompoundButton.OnCheckedChangeListener {
 

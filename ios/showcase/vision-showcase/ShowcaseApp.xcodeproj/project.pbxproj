@@ -27,6 +27,7 @@
 		AA10D355226F7F880057608A /* MLKConfirmationSpinner.m in Sources */ = {isa = PBXBuildFile; fileRef = AA10D349226F7F870057608A /* MLKConfirmationSpinner.m */; };
 		AA10D358226F7F880057608A /* UIImage+MLKShowcase.m in Sources */ = {isa = PBXBuildFile; fileRef = AA10D350226F7F870057608A /* UIImage+MLKShowcase.m */; };
 		AA10D35C226F83FE0057608A /* MLKUIUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = AA10D35B226F83FE0057608A /* MLKUIUtilities.m */; };
+		C6A0425EB78D63586A30C279 /* Pods_ShowcaseApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6ACED97FEEE127BC264E2AC7 /* Pods_ShowcaseApp.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,9 @@
 		1B5AC8EA246355DF009BDAED /* MLKStartPageHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MLKStartPageHeaderView.h; sourceTree = "<group>"; };
 		1B5AC8EB246355DF009BDAED /* MLKStartPageHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MLKStartPageHeaderView.m; sourceTree = "<group>"; };
 		1BEE5C172450C1B000C18F44 /* bird.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = bird.tflite; sourceTree = "<group>"; };
+		444875107AC5A69F274C2BBF /* Pods-ShowcaseApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShowcaseApp.debug.xcconfig"; path = "Target Support Files/Pods-ShowcaseApp/Pods-ShowcaseApp.debug.xcconfig"; sourceTree = "<group>"; };
+		470837E4107F9DBC197FFDEB /* Pods-ShowcaseApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShowcaseApp.release.xcconfig"; path = "Target Support Files/Pods-ShowcaseApp/Pods-ShowcaseApp.release.xcconfig"; sourceTree = "<group>"; };
+		6ACED97FEEE127BC264E2AC7 /* Pods_ShowcaseApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShowcaseApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA10D2FE226F745E0057608A /* ShowcaseApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShowcaseApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA10D301226F745E0057608A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AA10D302226F745E0057608A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -76,12 +80,21 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6A0425EB78D63586A30C279 /* Pods_ShowcaseApp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0D82730A3CF5373A49CA47E3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6ACED97FEEE127BC264E2AC7 /* Pods_ShowcaseApp.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		1B291486227A5533009B5E23 /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -94,11 +107,23 @@
 			name = Models;
 			sourceTree = "<group>";
 		};
+		5F4A11BE4B368B2D98640C71 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				444875107AC5A69F274C2BBF /* Pods-ShowcaseApp.debug.xcconfig */,
+				470837E4107F9DBC197FFDEB /* Pods-ShowcaseApp.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		AA10D2F5226F745E0057608A = {
 			isa = PBXGroup;
 			children = (
 				AA10D300226F745E0057608A /* ShowcaseApp */,
 				AA10D2FF226F745E0057608A /* Products */,
+				5F4A11BE4B368B2D98640C71 /* Pods */,
+				0D82730A3CF5373A49CA47E3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -182,9 +207,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = AA10D314226F74610057608A /* Build configuration list for PBXNativeTarget "ShowcaseApp" */;
 			buildPhases = (
+				285BF9A07F64E4362715F4F6 /* [CP] Check Pods Manifest.lock */,
 				AA10D2FA226F745E0057608A /* Sources */,
 				AA10D2FB226F745E0057608A /* Frameworks */,
 				AA10D2FC226F745E0057608A /* Resources */,
+				20E9B4D3872D61DDCC444B15 /* [CP] Embed Pods Frameworks */,
+				097550D66F4D91A8EA11D16C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -239,6 +267,65 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		097550D66F4D91A8EA11D16C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ShowcaseApp/Pods-ShowcaseApp-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ShowcaseApp/Pods-ShowcaseApp-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ShowcaseApp/Pods-ShowcaseApp-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		20E9B4D3872D61DDCC444B15 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ShowcaseApp/Pods-ShowcaseApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ShowcaseApp/Pods-ShowcaseApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ShowcaseApp/Pods-ShowcaseApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		285BF9A07F64E4362715F4F6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ShowcaseApp-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		AA10D2FA226F745E0057608A /* Sources */ = {
@@ -393,17 +480,18 @@
 		};
 		AA10D315226F74610057608A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 444875107AC5A69F274C2BBF /* Pods-ShowcaseApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 5T34P2CBCL;
 				INFOPLIST_FILE = ShowcaseApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.mlkit.sampleapp.showcase;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cargill.mobile.platform;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -412,17 +500,18 @@
 		};
 		AA10D316226F74610057608A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 470837E4107F9DBC197FFDEB /* Pods-ShowcaseApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 5T34P2CBCL;
 				INFOPLIST_FILE = ShowcaseApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.mlkit.sampleapp.showcase;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cargill.mobile.platform;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
